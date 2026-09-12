@@ -33,25 +33,26 @@
 
 ## ▹ Blender · 3D-моделирование
 
-<table>
-<tr>
-<td>
-
-### [C H U R C H ↗](https://drive.google.com/drive/folders/1kNXzxQcIvwZOoA3CiJlC-8rDqOF85_Ys)
+### C H U R C H
 
 **Детализированная модель готической церкви**
 
 Архитектурная работа с выразительным силуэтом и большим количеством повторяющихся деталей: центральная башня, боковые башни, стрельчатые окна, контрфорсы, арочные входы, скатная кровля и декоративные элементы фасада.
 
-Модель собрана в Blender с вниманием к пропорциям, ритму архитектуры и читаемости формы. Для поверхности здания подготовлены отдельные текстуры; результат сохранён как рабочая сцена **CchurchFinal.blend** и экспортирован в **FBX** для использования вне Blender, в том числе в игровых проектах.
+Модель собрана в Blender с вниманием к пропорциям, ритму архитектуры и читаемости формы. Отдельно проработаны фасад, башни, оконные проёмы, кровля и материалы здания.
 
-**Blender · Architectural Modeling · Texturing · FBX Export**
-
-[Открыть модель, текстуры и рендеры →](https://drive.google.com/drive/folders/1kNXzxQcIvwZOoA3CiJlC-8rDqOF85_Ys)
-
-</td>
+<table>
+<tr>
+<td width="50%"><img src="docs/images/church-front.png" alt="Готическая церковь — общий вид"></td>
+<td width="50%"><img src="docs/images/church-view.png" alt="Готическая церковь — второй ракурс"></td>
+</tr>
+<tr>
+<td align="center"><sub>Общий вид архитектурной модели</sub></td>
+<td align="center"><sub>Детали фасада и башен</sub></td>
 </tr>
 </table>
+
+**Blender · Architectural Modeling · Materials · Texturing**
 
 ## ▹ Избранные проекты
 
