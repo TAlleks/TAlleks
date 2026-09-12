@@ -48,7 +48,7 @@
 
 **C# · XR Interaction Toolkit · OpenXR**
 
-Совместный проект с [dedjkje](https://github.com/dedjkje) и [yokominn](https://github.com/yokominn).
+Совместный проект с [yokominn](https://github.com/yokominn).
 
 [Посмотреть проект и инструкцию запуска →](https://github.com/TAlleks/Londone#readme)
 
