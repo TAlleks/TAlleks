@@ -1,6 +1,6 @@
 <div align="center">
 
-![GAME · XR · 3D](https://img.shields.io/badge/GAME_·_XR_·_3D-16213e?style=for-the-badge&labelColor=1a1a2e)
+![GAME · VR · 3D](https://img.shields.io/badge/GAME_·_XR_·_3D-16213e?style=for-the-badge&labelColor=1a1a2e)
 
 # TAlleks
 
